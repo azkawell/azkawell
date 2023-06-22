@@ -1,4 +1,4 @@
-## Here is Hanan's Github!
+## Welcome to Hanan's Github!
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Senior+MERN+Stack+Developer;6+years+of+experience;Always+learning+new+technologies" alt="Typing SVG" /></a>
 
